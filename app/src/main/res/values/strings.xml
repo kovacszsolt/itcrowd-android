@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IT Crowd . Hu</string>
+    <string name="app_title">Az Internet Közepe</string>
+    <string name="app_url">https://itcrowd.hu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menugroup_help_title">Segíts</string>
+
+    <string name="menu_development_title">Fejlesztés</string>
+    <string name="menu_development_url">https://itcrowd.hu/fejlesztes</string>
+    <string name="menu_game_title">Játék</string>
+    <string name="menu_game_url">https://itcrowd.hu/jatek</string>
+    <string name="menu_secure_title">Biztonság</string>
+    <string name="menu_secure_url">https://itcrowd.hu/biztonsag</string>
+    <string name="menu_mobil_title">Mobil</string>
+    <string name="menu_mobil_url">https://itcrowd.hu/mobil</string>
+    <string name="menu_send_title">Cikk beküldése</string>
+    <string name="menu_send_url">https://itcrowd.hu/hirbekuldes/</string>
+    <string name="menu_about_title">Az oldalról</string>
+    <string name="menu_about_url">https://itcrowd.hu/az-oldalrol/</string>
+    <string name="menu_github_title">Az alkalmazás forrása</string>
+    <string name="menu_github_url">https://github.com/kovacszsolt/fingerfront</string>
+</resources>
